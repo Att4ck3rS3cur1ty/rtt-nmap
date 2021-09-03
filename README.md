@@ -5,5 +5,7 @@
 # Input file format
 
 - It's expected the list to be an enumeration of hosts (wether it's IP addrs. or DNS) separate through break lines. Eg:
+
+
 8.8.8.8
 www.google.com
