@@ -1,4 +1,4 @@
-# RTT costumizer
+# RTT customizer
 
 - To run the script, simply run it through bash and send the host input list as the only argument: `bash ./rtt-nmap <input_file>
 
